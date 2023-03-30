@@ -45,7 +45,7 @@ rails s
 👤 **Gina Beki**
 
 - GitHub: [@ginabeki](https://github.com/ginabeki)
-- Twitter: [@gina](https://twitter.com/ginabeki_)
+- Twitter: [@gina](https://twitter.com/gina_w_)
 - LinkedIn: [ginabeki](https://www.linkedin.com/in/ginabeki/)
 
 ## 🤝 Contributing
